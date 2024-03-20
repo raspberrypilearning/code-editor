@@ -1,59 +1,30 @@
-## Introduction
+## Moving to the Code Editor
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+The Raspberry Pi Foundation’s Code Editor is an online coding tool that is designed to help young people learn text-based programming. Whether they want to learn Python or build amazing websites with HTML, CSS, and JavaScript, our bespoke tool provides everything learners need.
 
-### What you will make
+### What makes the Code Editor special?
+- It's free, forever! Learners can start coding right away without any costs.
+- Learners can use the Editor to write and run code in a web browser, without needing to install any additional software. 
+- Learners can jump right in, with no setup required. They can create a new Python or a web project, or explore projects and starter templates in our Python and web design paths for inspiration.
+- The Editor is designed for learning: learners can enjoy a friendly environment that helps them understand their code.
+- The Editor has helpful tools, such as syntax highlighting autocomplete, and error checking.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+### Getting started
+1. Learners can visit the Code Editor website.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![Getting started page for the Code Editor](images/image1.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+2. If learners would like to save their work, they can set up a Raspberry Pi account (if learners are under 13, they will need to use a parent or guardian's email address to do this). Please note that learners do not need an account to use the Code Editor; just to save their work.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![Account creation page for the Code Editor](images/image2.png)
 
-+ A computer or tablet capable of running Scratch 3
+3. Learners can pick a project type: they can dive into Python or create awesome websites.
 
-### Software
+![The UI for the Code Editor](images/image3.png)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+4. Learners can use the file storage pane to select different files, get creative with code in the code writing area, and see the results of their work in the output area.
 
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+### Important notes
+- Learners can copy and paste existing code into the Editor, to transfer code from other online or local development tools.
+- Learners can download their projects to run them on their own computer.
+- Learners cannot currently upload their own files to the Editor.
